@@ -10,4 +10,6 @@ var5 = 5
 
 var6 = 6
 
-var = 7
+var7 = 7
+
+var8 = 8
