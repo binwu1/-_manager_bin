@@ -9,3 +9,5 @@ var4 = 4
 var5 = 5
 
 var6 = 6
+
+var = 7
